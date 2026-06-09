@@ -21,7 +21,7 @@ const SYSTEM_DEFAULTS = {
     cleanIps: "",
     slaveNodes: "",
     deviceId: "",
-    mode: "alpha",
+    mode: "arshia",
     agent: "chrome",
     socketPorts: "443",
     customDns: "https://cloudflare-dns.com/dns-query",
